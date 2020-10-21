@@ -13,4 +13,8 @@ Git has a mutable index called stag
 
 Creating a new branch is quick.git11
 
+<<<<<<< HEAD
 Creating a new branch is quick & simple. master上再次修改
+=======
+Creating a new branch is quick AND simple,Switched to a new branch 'feature1
+>>>>>>> feature1
