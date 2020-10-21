@@ -11,4 +11,4 @@ Git has a mutable index called stag
 
 庆幸的是，在commit之前，你发现了这个问题。用git status查看一下，修改只是添加到了暂存区，还没有提交：git
 
-Creating a new branch is quick.git
+Creating a new branch is quick.git11
