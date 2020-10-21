@@ -4,3 +4,5 @@
 测试。。。。。。。。。。。。。。1sdfssf
 
 Git has a mutable index called stag
+
+为什么说Git管理的是修改，而不是文件呢？我们还是做实验。第一步，对readme.txt做一个修改，比如加一行内容
